@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Diseases>
+	<Disease value="BPM" language="uk" border="min">
+		<Name>Серцева недостатність</Name>
+		<Description>При серцевій недостатності часто буває низький пульс, але іноді може бути підвищений</Description>
+		<Recommendations>Рекомендації при серцевій недостатності</Recommendations>
+	</Disease>
+	<Disease value="BPM" language="uk" border="max">
+		<Name>Гіпертиреоз</Name>
+		<Description>При гіпертиреозі зазвичай спостерігається підвищений пульс</Description>
+		<Recommendations>Рекомендації при гіпертиреозі</Recommendations>
+	</Disease>
+	<Disease value="BPM" language="uk" border="max">
+		<Name>Хвороби дихальних шляхів</Name>
+		<Description>Обструктивна хвороба легень чи астма можуть призвести до підвищення пульсу</Description>
+		<Recommendations>Рекомендації при хворобі дихальних шляхів</Recommendations>
+	</Disease>
+	<Disease value="BPM" language="uk" border="max">
+		<Name>Інфекційні захворювання</Name>
+		<Description>Інфекції сечовивідних шляхів, пневмонія та інші інфекції можуть призвести до підвищення пульсу</Description>
+		<Recommendations>Рекомендації при інфекційному захворюванні</Recommendations>
+	</Disease>
+	<Disease value="BPM" language="uk" border="min">
+		<Name>Гіпотермія</Name>
+		<Description>Зниження температури тіла до критичного рівня може спричинити зниження пульсу.</Description>
+		<Recommendations>Рекомендації при гіпотермії</Recommendations>
+	</Disease>
+	<Disease value="BPM" language="en" border="min">
+		<Name>Heart failure</Name>
+		<Description>With heart failure, the heart rate is often low, but sometimes it can be elevated</Description>
+		<Recommendations>Recommendations for heart failure</Recommendations>
+	</Disease>
+	<Disease value="BPM" language="en" border="max">
+		<Name>Hyperthyroidism</Name>
+		<Description>With hyperthyroidism, an increased pulse is usually observed</Description>
+		<Recommendations>Recommendations for hyperthyroidism</Recommendations>
+	</Disease>
+	<Disease value="BPM" language="en" border="max">
+		<Name>Diseases of the respiratory tract</Name>
+		<Description>Obstructive pulmonary disease or asthma can lead to an increased heart rate</Description>
+		<Recommendations>Recommendations for diseases of the respiratory tract</Recommendations>
+	</Disease>
+	<Disease value="BPM" language="en" border="max">
+		<Name>Infectious diseases</Name>
+		<Description>Urinary tract infections, pneumonia, and other infections can cause an increased heart rate</Description>
+		<Recommendations>Recommendations for an infectious disease</Recommendations>
+	</Disease>
+	<Disease value="BPM" language="en" border="min">
+		<Name>Hypothermia</Name>
+		<Description>A drop in body temperature to a critical level can cause a decrease in heart rate</Description>
+		<Recommendations>Recommendations for hypothermia</Recommendations>
+	</Disease>
+	<Disease value="Pressure" language="uk" border="max">
+		<Name>Гіпертонія</Name>
+		<Description>Підвищений кров'яний тиск може бути пов'язаний із гіпертонією</Description>
+		<Recommendations>Рекомендації при гіпертонії</Recommendations>
+	</Disease>
+	<Disease value="Pressure" language="uk" border="min">
+		<Name>Гіпотонія</Name>
+		<Description>Знижений кров'яний тиск може вказувати на гіпотонію</Description>
+		<Recommendations>Рекомендації при гіпотонії</Recommendations>
+	</Disease>
+	<Disease value="Pressure" language="uk" border="min">
+		<Name>Анемія</Name>
+		<Description>Зниження кров'яного тиску може бути пов'язане з анемією</Description>
+		<Recommendations>Рекомендації при анемії</Recommendations>
+	</Disease>
+	<Disease value="Pressure" language="en" border="max">
+		<Name>Hypertension</Name>
+		<Description>High blood pressure can be associated with hypertension</Description>
+		<Recommendations>Recommendations for hypertension</Recommendations>
+	</Disease>
+	<Disease value="Pressure" language="en" border="min">
+		<Name>Hypotension</Name>
+		<Description>Low blood pressure may indicate hypotension</Description>
+		<Recommendations>Recommendations for hypotension</Recommendations>
+	</Disease>
+	<Disease value="Pressure" language="en" border="min">
+		<Name>Anemia</Name>
+		<Description>A drop in blood pressure may be associated with anemia</Description>
+		<Recommendations>Recommendations for anemia</Recommendations>
+	</Disease>
+	<Disease value="BloodOxygen" language="uk" border="min">
+		<Name>Обструкція дихальних шляхів</Name>
+		<Description>Обструкція дихальних шляхів може призводити до низького рівня кисню у собаки</Description>
+		<Recommendations>Рекомендації при обструкції дихальних шляхів</Recommendations>
+	</Disease>
+	<Disease value="BloodOxygen" language="uk" border="min">
+		<Name>Захворювання легень</Name>
+		<Description>Захворювання легень, такі як бронхіт, пневмонія та інші можуть викликати низький рівень кисню</Description>
+		<Recommendations>Рекомендації при захворюванні легень</Recommendations>
+	</Disease>
+	<Disease value="BloodOxygen" language="uk" border="min">
+		<Name>Травми</Name>
+		<Description>Травми, такі як пошкодження грудної клітки, можуть призвести до зниження рівня кисню</Description>
+		<Recommendations>Рекомендації при травмі</Recommendations>
+	</Disease>
+	<Disease value="BloodOxygen" language="en" border="min">
+		<Name>Obstruction of the respiratory tract</Name>
+		<Description>Airway obstruction can lead to low oxygen levels in the dog</Description>
+		<Recommendations>Recommendations for airway obstruction</Recommendations>
+	</Disease>
+	<Disease value="BloodOxygen" language="en" border="min">
+		<Name>Lung disease</Name>
+		<Description>Lung diseases such as bronchitis, pneumonia and others can cause low oxygen levels</Description>
+		<Recommendations>Recommendations for lung disease</Recommendations>
+	</Disease>
+	<Disease value="BloodOxygen" language="en" border="min">
+		<Name>Injuries</Name>
+		<Description>Injuries, such as chest injuries, can cause oxygen levels to drop</Description>
+		<Recommendations>Recommendations for injury</Recommendations>
+	</Disease>
+	<Disease value="Temperature" language="en" border="min">
+		<Name>Temperature</Name>
+		<Description>Temperature is low</Description>
+		<Recommendations>Recommendations for low temperature</Recommendations>
+	</Disease>
+	<Disease value="Temperature" language="en" border="max">
+		<Name>Temperature</Name>
+		<Description>Temperature is high</Description>
+		<Recommendations>Recommendations for high temperature</Recommendations>
+	</Disease>
+	<Disease value="Temperature" language="uk" border="min">
+		<Name>Температура</Name>
+		<Description>Низька температура</Description>
+		<Recommendations>Рекомендації для низької температури</Recommendations>
+	</Disease>
+	<Disease value="Temperature" language="uk" border="max">
+		<Name>Температура</Name>
+		<Description>Висока темепература</Description>
+		<Recommendations>Рекомендації для високої температури</Recommendations>
+	</Disease>
+</Diseases>
